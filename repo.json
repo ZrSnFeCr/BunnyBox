@@ -17,9 +17,9 @@
     "DalamudApiLevel": 14,
     "TestingDalamudApiLevel": 0,
     "LastUpdate": 1701231234,
-    "DownloadLinkInstall": "https://github.com/ZrSnFeCr/BunnyBox/releases/download/1.0.0.0/BunnyBox.zip",
-    "DownloadLinkUpdate": "https://github.com/ZrSnFeCr/BunnyBox/releases/download/1.0.0.0/BunnyBox.zip",
-    "DownloadLinkTesting": "https://github.com/ZrSnFeCr/BunnyBox/releases/download/1.0.0.0/BunnyBox.zip",
+    "DownloadLinkInstall": "https://github.com/ZrSnFeCr/BunnyBox/releases/download/1.0.0.1/BunnyBox.zip",
+    "DownloadLinkUpdate": "https://github.com/ZrSnFeCr/BunnyBox/releases/download/1.0.0.1/BunnyBox.zip",
+    "DownloadLinkTesting": "https://github.com/ZrSnFeCr/BunnyBox/releases/download/1.0.0.1/BunnyBox.zip",
     "IconUrl": "https://raw.githubusercontent.com/ZrSnFeCr/BunnyBox/refs/heads/master/Data/bunny.png"
   }
 ]
