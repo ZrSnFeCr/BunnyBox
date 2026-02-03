@@ -85,8 +85,7 @@ public sealed class BunnyBox : IDalamudPlugin
 
     private void OnCommand(string command, string args)
     {
-        Configuration.active = !Configuration.active;
-        SetEnabled(Configuration.active);
+        ToggleConfigUi();
     }
 
     private unsafe void ModifyPOS(IFramework framework)
