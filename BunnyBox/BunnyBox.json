@@ -1,0 +1,10 @@
+{
+  "Author": "ZrSnFeCr",
+  "Name": "BunnyBox",
+  "Punchline": "We do a little testing",
+  "Description": "Testing tool based on AetherBox by BrakusTapus.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "plugin"
+  ]
+}
